@@ -29,6 +29,45 @@ The Retail Sales Dashboard is an interactive data visualization solution designe
 # Dashboard
 <img width="1422" height="798" alt="Screenshot 2025-10-29 111532" src="https://github.com/user-attachments/assets/eab9097e-5679-4289-a7a1-8f07f7cc0eb5" />
 
+# Methodology
+
+- Data Collection: Imported raw retail sales data from Excel/CSV files.
+
+- Data Cleaning: Handled missing values, corrected inconsistent entries, and standardized date formats using Power Query.
+
+- Data Modeling: Created relationships between tables (Products, Sales, Customers, Regions).
+
+- KPI Calculation: Defined key metrics using DAX formulas:
+
+- Total Sales = SUM(Sales[Sales Amount])
+
+- Total Profit = SUM(Sales[Profit])
+
+- Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+
+- Sales Growth % = (Current Month Sales - Previous Month Sales) / Previous Month Sales
+
+- Dashboard Design: Built interactive visuals including:
+
+- Sales Trend Line Chart (Monthly/Yearly)
+
+- Profit and Revenue KPIs
+
+- Product and Regional Performance Bar Charts
+
+- Geo-map for regional sales distribution
+
+- Filters for Date, Product Category, and Customer Segment
+
+- Insight Generation: Interpreted dashboard outcomes to identify growth trends and performance gaps.
+
+
+7. Insights and Findings
+- Top 10 products contributed to nearly 60% of total revenue.
+- Certain regions showed high sales but low profit margins, indicating potential pricing or cost inefficiencies.
+- Customer segment analysis revealed repeat customers drove 45% of overall revenue.
+- Quarterly growth trends showed a 12% increase in sales in the last quarter due to promotional campaigns.
+
 # Results and Impact
 
 - Improved visibility into sales and profit performance across business dimensions.
