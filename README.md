@@ -28,6 +28,7 @@ The Retail Sales Dashboard is an interactive data visualization solution designe
 - 📆 Time Intelligence – Year-over-Year (YoY) and Month-over-Month (MoM) growth tracking
 # Dashboard
 <img width="1422" height="798" alt="Screenshot 2025-10-29 111532" src="https://github.com/user-attachments/assets/eab9097e-5679-4289-a7a1-8f07f7cc0eb5" />
+
 # Results and Impact
 
 - Improved visibility into sales and profit performance across business dimensions.
