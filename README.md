@@ -61,8 +61,7 @@ The Retail Sales Dashboard is an interactive data visualization solution designe
 
 - Insight Generation: Interpreted dashboard outcomes to identify growth trends and performance gaps.
 
-
-7. Insights and Findings
+# Insights and Findings
 - Top 10 products contributed to nearly 60% of total revenue.
 - Certain regions showed high sales but low profit margins, indicating potential pricing or cost inefficiencies.
 - Customer segment analysis revealed repeat customers drove 45% of overall revenue.
